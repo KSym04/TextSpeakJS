@@ -32,7 +32,7 @@ tts.speakText();
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://www.dopethemes.com/gplv3/) file for details.
 
 ## Contributor
 
@@ -42,4 +42,4 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 
 Feel free to open issues or submit pull requests. Your contributions are welcome!
 
-For more details, visit the [GitHub repository](https://github.com/dopethemes/textspeakjs).
+For more details, visit the [GitHub repository](https://github.com/KSym04/TextSpeakJS).
